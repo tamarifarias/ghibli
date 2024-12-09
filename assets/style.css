@@ -1,0 +1,37 @@
+body{
+
+    background-color: rgb(149, 221, 221);
+}
+
+h1{
+    color: rgb(13, 112, 112);
+    text-align: center;
+    font-size: 70px;
+    font-family: fantasy;
+}
+
+h2{
+    text-align: center;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+article{
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+img{
+    width: 300px;
+    height: 380px;
+    border-radius: 15px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
